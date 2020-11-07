@@ -1,6 +1,6 @@
 1. Como utilizar - 
 
-Para acessar a aplicação clique aqui
+Para acessar a aplicação ![clique aqui](https://aluizada.github.io/SAP005-cipher/src/index.html)
 
 Codificar:
 Insira a mensagem
