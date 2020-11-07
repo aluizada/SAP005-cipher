@@ -1,6 +1,6 @@
 1. Como utilizar - 
 
-Para acessar a aplicação ![clique aqui](https://aluizada.github.io/SAP005-cipher/src/index.html)
+Para acessar a aplicação clique aqui https://aluizada.github.io/SAP005-cipher/src/index.html
 
 Codificar:
 Insira a mensagem
@@ -20,4 +20,6 @@ Baseado em um texto do ativista político, linguista, filósofo e sociólogo Noa
 
 3. Identificação do Usuário
 Para todas aquelas pessoas que desejam se comunicar sigilosamente sem o controle e a vigilância do estado, podendo assim promover assembléias, encontros, protestos, etc.
+
+4. 
 
